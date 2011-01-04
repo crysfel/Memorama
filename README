@@ -1,0 +1,16 @@
+[Memorama](http://demos.crysfel.com/Memorama/) - A memory game for iPad
+================================
+
+About the game
+---------------------------------------
+* This project is a simple memory game for the iPad, it's made with JavaScript and [Sencha Touch](http://www.sencha.com/products/touch/), 
+this is the first version of the game but I'd like to integrate it with [Node.js](http://nodejs.org/) to 
+create a multiplayer game, if you want to join me in the development of this little app 
+please send me a message.
+
+Working demo
+---------------------------------------
+* This is a web app that you can test in Google Chrome or your iPad
+please [go to this page](http://demos.crysfel.com/Memorama/) and have some fun! Also let me know
+if you find any issue.
+
